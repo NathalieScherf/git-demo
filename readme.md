@@ -1,5 +1,7 @@
 # A demo of git
 
+## Create a local repository:
+
 1. `git init` - create a repository
 2. `git add .` - track all files in this folder
 3. `git commit` - opens up nano: type a message
