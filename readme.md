@@ -1,5 +1,4 @@
 # A demo of git
-## Creating a repository locally
 
 ## Create a local repository:
 
