@@ -10,7 +10,7 @@
  - `git commit -m "type a message here"`
  - `git push`
 
-## Check if you have unsaves changes, or anything to commit or push
+## Check if you have unsaved changes, or anything to commit or push
  - `git status`
 
 
