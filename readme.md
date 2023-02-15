@@ -7,7 +7,11 @@
 3. `git commit` - opens up nano: type a message
 3. Option: `git commit -m "type a message here"`
 4. Got to GitHub and [create a repository](https://docs.github.com/en/get-started/quickstart/create-a-repo?tool=webui), copy the code for the command line from Github and past it to your command line!
-5. Steps to repeat while working: 
+
+## Steps to repeat while working: 
+
+Whenever you have changes you want to save and push to GitHub, you need to do the 3 following commands. 
+
  - `git add .`
  - `git commit -m "type a message here"`
  - `git push`
