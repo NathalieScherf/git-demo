@@ -1,4 +1,5 @@
 # A demo of git
+## Creating a repository locally
 
 ## Create a local repository:
 
@@ -6,7 +7,7 @@
 2. `git add .` - track all files in this folder
 3. `git commit` - opens up nano: type a message
 3. Option: `git commit -m "type a message here"`
-4. Got to GitHub and create a repository, copy the code for the command line from Github and past it to your command line!
+4. Got to GitHub and [create a repository](https://docs.github.com/en/get-started/quickstart/create-a-repo?tool=webui), copy the code for the command line from Github and past it to your command line!
 5. Steps to repeat while working: 
  - `git add .`
  - `git commit -m "type a message here"`
